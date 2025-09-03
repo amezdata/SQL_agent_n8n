@@ -62,4 +62,5 @@ The workflow exposes a simple webhook API that accepts natural language question
 - Web interfaces
 
 Perfect for anyone who wants to make their database accessible through natural language without compromising security or requiring SQL knowledge from end users.
-by R.H. Amezqueta
+
+<br>by R.H. Amezqueta
